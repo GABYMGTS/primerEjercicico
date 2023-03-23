@@ -1,4 +1,4 @@
-Crear una carpeta que contenga un archivo .txt con un mensaje inicial
+BORRE LA PRIMER LINEA
 
 
 PRIMER EJERCICIO
